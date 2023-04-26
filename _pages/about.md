@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Data and AI"
+excerpt: "Main page"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,16 @@ redirect_from:
 ---
 # Welcome to my personal pages 
 
-**This is a test page for setting up personal pages on github.**
-**More to come about my research and my thoughts after I find (or make) a good template.**
-**I have shared some codes for a few recent projects. You may access them directly through the papers.**
+This is a test page for setting up personal pages on github.
+
+More to come about my research and my thoughts after I find (or make) a good template.
+
+I have shared some codes for a few recent projects. You may access them directly through the papers.
    
    
 ## About me:
-**My name is Xinhua Yu. Here are a few things I would like to share with you:**
+
+My name is Xinhua Yu. Here are a few things I would like to share with you:
 
 - **My expertises**: Epidemiology and big data analytics (mostly structured tabular data).
 - **My math specialty**: Probability and statistics,  and some stochastic processes.
