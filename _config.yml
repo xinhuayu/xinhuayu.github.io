@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinhua Yu"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Xinhua Yu"
 description              : &description "personal webpage"
@@ -222,6 +222,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _researching
+  - scope:
+      path: ""
+      type: researching
     values:
       layout: single
       author_profile: true
