@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Data, AI, and Machine Learning"
+title: "Health Data Analytics, AI in Health, and Causal Machine Learning"
 excerpt: "Main page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# What's New
+## What's New
 
-This is a test page for setting up personal pages on github.
+This is a test page for setting up personal pages on github (most other links are not working).
 
 More to come about my research and my thoughts after I find (or make) a good template.
 
