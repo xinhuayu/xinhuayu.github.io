@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Data and AI"
+title: "Data, AI, and Machine Learning"
 excerpt: "Main page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Welcome to my personal pages 
+# What's New
 
 This is a test page for setting up personal pages on github.
 
