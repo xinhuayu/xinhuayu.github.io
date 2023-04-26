@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xinhua Yu"
   avatar           : "profile.png"
-  bio              : "Epidemiology, Big Data Analytics"
+  bio              : "Epidemiology, Big Data Analytics, Causal Inference"
   location         : "US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xinhua+yu+memphis"
-  googlescholar    : " "
+  googlescholar    : "https://scholar.google.com/citations?user=XsI-ZhYAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
